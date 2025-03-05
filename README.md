@@ -6,7 +6,7 @@
 ![Image](https://github.com/user-attachments/assets/215c6da0-1ba3-4642-a822-d72e4089ed4f)
 
 
-**🍰 Flutter Bakery Order & Payment App**
+**🍰 Flutter Bakery Order & Billing App**
 
 🌟 Project Overview
 
