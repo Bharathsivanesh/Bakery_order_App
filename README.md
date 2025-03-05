@@ -1,8 +1,8 @@
-##🏆 Publication & Recognition
+#**🏆 Publication & Recognition**
 
-📖 Published in IJRSREM (International Journal of Scientific Research in Engineering And Management)
-📜 ISSN:2582-3930
-🏅 Certified & Recognized Publication
+**📖 Published in IJRSREM (International Journal of Scientific Research in Engineering And Management)**
+**📜 ISSN:2582-3930**
+**🏅 Certified & Recognized Publication**
 
 
 🍰 Flutter Bakery Order & Payment App
