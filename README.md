@@ -3,9 +3,10 @@
 **📖 Published in IJRSREM (International Journal of Scientific Research in Engineering And Management)**
 **📜 ISSN:2582-3930**
 **🏅 Certified & Recognized Publication**
+![Image](https://github.com/user-attachments/assets/215c6da0-1ba3-4642-a822-d72e4089ed4f)
 
 
-🍰 Flutter Bakery Order & Payment App
+**🍰 Flutter Bakery Order & Payment App**
 
 🌟 Project Overview
 
